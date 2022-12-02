@@ -1,0 +1,4 @@
+#Wed Mar 02 14:31:31 CST 2022
+base.0=/home/nano/AndroidStudioProjects/opencv4.5/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

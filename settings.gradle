@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "measureAR_mark"
+include ':opencv4.5'
